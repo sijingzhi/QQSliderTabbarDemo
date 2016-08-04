@@ -15,6 +15,21 @@
 		641CDBF91D535DB10052B45B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 641CDBF71D535DB10052B45B /* LaunchScreen.storyboard */; };
 		641CDC041D535DB10052B45B /* QQSliderTabbarDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC031D535DB10052B45B /* QQSliderTabbarDemoTests.m */; };
 		641CDC0F1D535DB10052B45B /* QQSliderTabbarDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC0E1D535DB10052B45B /* QQSliderTabbarDemoUITests.m */; };
+		641CDC261D535DF10052B45B /* ICSDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC211D535DF10052B45B /* ICSDrawerController.m */; };
+		641CDC271D535DF10052B45B /* ICSDropShadowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC231D535DF10052B45B /* ICSDropShadowView.m */; };
+		641CDC281D535DF10052B45B /* LeftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC251D535DF10052B45B /* LeftViewController.m */; };
+		641CDC331D535DFB0052B45B /* RootTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC2A1D535DFB0052B45B /* RootTabBarController.m */; };
+		641CDC341D535DFB0052B45B /* SJZBageButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC2C1D535DFB0052B45B /* SJZBageButton.m */; };
+		641CDC351D535DFB0052B45B /* SJZTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC2E1D535DFB0052B45B /* SJZTabBar.m */; };
+		641CDC361D535DFB0052B45B /* SJZTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC301D535DFB0052B45B /* SJZTabBarButton.m */; };
+		641CDC371D535DFB0052B45B /* SJZCustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC321D535DFB0052B45B /* SJZCustomButton.m */; };
+		641CDC421D535E050052B45B /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC391D535E050052B45B /* OneViewController.m */; };
+		641CDC431D535E050052B45B /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC3B1D535E050052B45B /* TwoViewController.m */; };
+		641CDC441D535E050052B45B /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC3D1D535E050052B45B /* ThreeViewController.m */; };
+		641CDC451D535E050052B45B /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC3F1D535E050052B45B /* FourViewController.m */; };
+		641CDC461D535E050052B45B /* FiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC411D535E050052B45B /* FiveViewController.m */; };
+		641CDC4A1D535E1C0052B45B /* NavigationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 641CDC491D535E1C0052B45B /* NavigationView.m */; };
+		64285A701D535EB8004A7A72 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 64285A6F1D535EB8004A7A72 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,36 @@
 		641CDC0A1D535DB10052B45B /* QQSliderTabbarDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QQSliderTabbarDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		641CDC0E1D535DB10052B45B /* QQSliderTabbarDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQSliderTabbarDemoUITests.m; sourceTree = "<group>"; };
 		641CDC101D535DB10052B45B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		641CDC1D1D535DCC0052B45B /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		641CDC201D535DF10052B45B /* ICSDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSDrawerController.h; sourceTree = "<group>"; };
+		641CDC211D535DF10052B45B /* ICSDrawerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSDrawerController.m; sourceTree = "<group>"; };
+		641CDC221D535DF10052B45B /* ICSDropShadowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSDropShadowView.h; sourceTree = "<group>"; };
+		641CDC231D535DF10052B45B /* ICSDropShadowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSDropShadowView.m; sourceTree = "<group>"; };
+		641CDC241D535DF10052B45B /* LeftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftViewController.h; sourceTree = "<group>"; };
+		641CDC251D535DF10052B45B /* LeftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftViewController.m; sourceTree = "<group>"; };
+		641CDC291D535DFB0052B45B /* RootTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTabBarController.h; sourceTree = "<group>"; };
+		641CDC2A1D535DFB0052B45B /* RootTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTabBarController.m; sourceTree = "<group>"; };
+		641CDC2B1D535DFB0052B45B /* SJZBageButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJZBageButton.h; sourceTree = "<group>"; };
+		641CDC2C1D535DFB0052B45B /* SJZBageButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJZBageButton.m; sourceTree = "<group>"; };
+		641CDC2D1D535DFB0052B45B /* SJZTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJZTabBar.h; sourceTree = "<group>"; };
+		641CDC2E1D535DFB0052B45B /* SJZTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJZTabBar.m; sourceTree = "<group>"; };
+		641CDC2F1D535DFB0052B45B /* SJZTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJZTabBarButton.h; sourceTree = "<group>"; };
+		641CDC301D535DFB0052B45B /* SJZTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJZTabBarButton.m; sourceTree = "<group>"; };
+		641CDC311D535DFB0052B45B /* SJZCustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJZCustomButton.h; sourceTree = "<group>"; };
+		641CDC321D535DFB0052B45B /* SJZCustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJZCustomButton.m; sourceTree = "<group>"; };
+		641CDC381D535E050052B45B /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		641CDC391D535E050052B45B /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
+		641CDC3A1D535E050052B45B /* TwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		641CDC3B1D535E050052B45B /* TwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
+		641CDC3C1D535E050052B45B /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
+		641CDC3D1D535E050052B45B /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
+		641CDC3E1D535E050052B45B /* FourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
+		641CDC3F1D535E050052B45B /* FourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
+		641CDC401D535E050052B45B /* FiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FiveViewController.h; sourceTree = "<group>"; };
+		641CDC411D535E050052B45B /* FiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FiveViewController.m; sourceTree = "<group>"; };
+		641CDC481D535E1C0052B45B /* NavigationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationView.h; sourceTree = "<group>"; };
+		641CDC491D535E1C0052B45B /* NavigationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationView.m; sourceTree = "<group>"; };
+		64285A6F1D535EB8004A7A72 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +126,7 @@
 		641CDBDD1D535DB10052B45B = {
 			isa = PBXGroup;
 			children = (
+				64285A6F1D535EB8004A7A72 /* icon.png */,
 				641CDBE81D535DB10052B45B /* QQSliderTabbarDemo */,
 				641CDC021D535DB10052B45B /* QQSliderTabbarDemoTests */,
 				641CDC0D1D535DB10052B45B /* QQSliderTabbarDemoUITests */,
@@ -105,6 +151,10 @@
 				641CDBED1D535DB10052B45B /* AppDelegate.m */,
 				641CDBEF1D535DB10052B45B /* ViewController.h */,
 				641CDBF01D535DB10052B45B /* ViewController.m */,
+				641CDC471D535E0E0052B45B /* Navigation */,
+				641CDC1F1D535DDF0052B45B /* LeftSlider */,
+				641CDC1E1D535DD40052B45B /* Tabbar */,
+				641CDC1C1D535DBA0052B45B /* Controller */,
 				641CDBF21D535DB10052B45B /* Main.storyboard */,
 				641CDBF51D535DB10052B45B /* Assets.xcassets */,
 				641CDBF71D535DB10052B45B /* LaunchScreen.storyboard */,
@@ -117,6 +167,7 @@
 		641CDBE91D535DB10052B45B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				641CDC1D1D535DCC0052B45B /* PrefixHeader.pch */,
 				641CDBEA1D535DB10052B45B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +189,62 @@
 				641CDC101D535DB10052B45B /* Info.plist */,
 			);
 			path = QQSliderTabbarDemoUITests;
+			sourceTree = "<group>";
+		};
+		641CDC1C1D535DBA0052B45B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				641CDC381D535E050052B45B /* OneViewController.h */,
+				641CDC391D535E050052B45B /* OneViewController.m */,
+				641CDC3A1D535E050052B45B /* TwoViewController.h */,
+				641CDC3B1D535E050052B45B /* TwoViewController.m */,
+				641CDC3C1D535E050052B45B /* ThreeViewController.h */,
+				641CDC3D1D535E050052B45B /* ThreeViewController.m */,
+				641CDC3E1D535E050052B45B /* FourViewController.h */,
+				641CDC3F1D535E050052B45B /* FourViewController.m */,
+				641CDC401D535E050052B45B /* FiveViewController.h */,
+				641CDC411D535E050052B45B /* FiveViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		641CDC1E1D535DD40052B45B /* Tabbar */ = {
+			isa = PBXGroup;
+			children = (
+				641CDC291D535DFB0052B45B /* RootTabBarController.h */,
+				641CDC2A1D535DFB0052B45B /* RootTabBarController.m */,
+				641CDC2B1D535DFB0052B45B /* SJZBageButton.h */,
+				641CDC2C1D535DFB0052B45B /* SJZBageButton.m */,
+				641CDC2D1D535DFB0052B45B /* SJZTabBar.h */,
+				641CDC2E1D535DFB0052B45B /* SJZTabBar.m */,
+				641CDC2F1D535DFB0052B45B /* SJZTabBarButton.h */,
+				641CDC301D535DFB0052B45B /* SJZTabBarButton.m */,
+				641CDC311D535DFB0052B45B /* SJZCustomButton.h */,
+				641CDC321D535DFB0052B45B /* SJZCustomButton.m */,
+			);
+			name = Tabbar;
+			sourceTree = "<group>";
+		};
+		641CDC1F1D535DDF0052B45B /* LeftSlider */ = {
+			isa = PBXGroup;
+			children = (
+				641CDC201D535DF10052B45B /* ICSDrawerController.h */,
+				641CDC211D535DF10052B45B /* ICSDrawerController.m */,
+				641CDC221D535DF10052B45B /* ICSDropShadowView.h */,
+				641CDC231D535DF10052B45B /* ICSDropShadowView.m */,
+				641CDC241D535DF10052B45B /* LeftViewController.h */,
+				641CDC251D535DF10052B45B /* LeftViewController.m */,
+			);
+			name = LeftSlider;
+			sourceTree = "<group>";
+		};
+		641CDC471D535E0E0052B45B /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				641CDC481D535E1C0052B45B /* NavigationView.h */,
+				641CDC491D535E1C0052B45B /* NavigationView.m */,
+			);
+			name = Navigation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,6 +350,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64285A701D535EB8004A7A72 /* icon.png in Resources */,
 				641CDBF91D535DB10052B45B /* LaunchScreen.storyboard in Resources */,
 				641CDBF61D535DB10052B45B /* Assets.xcassets in Resources */,
 				641CDBF41D535DB10052B45B /* Main.storyboard in Resources */,
@@ -270,9 +378,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				641CDC431D535E050052B45B /* TwoViewController.m in Sources */,
+				641CDC441D535E050052B45B /* ThreeViewController.m in Sources */,
+				641CDC331D535DFB0052B45B /* RootTabBarController.m in Sources */,
+				641CDC351D535DFB0052B45B /* SJZTabBar.m in Sources */,
+				641CDC261D535DF10052B45B /* ICSDrawerController.m in Sources */,
+				641CDC421D535E050052B45B /* OneViewController.m in Sources */,
 				641CDBF11D535DB10052B45B /* ViewController.m in Sources */,
 				641CDBEE1D535DB10052B45B /* AppDelegate.m in Sources */,
+				641CDC461D535E050052B45B /* FiveViewController.m in Sources */,
+				641CDC341D535DFB0052B45B /* SJZBageButton.m in Sources */,
+				641CDC281D535DF10052B45B /* LeftViewController.m in Sources */,
+				641CDC4A1D535E1C0052B45B /* NavigationView.m in Sources */,
 				641CDBEB1D535DB10052B45B /* main.m in Sources */,
+				641CDC271D535DF10052B45B /* ICSDropShadowView.m in Sources */,
+				641CDC451D535E050052B45B /* FourViewController.m in Sources */,
+				641CDC371D535DFB0052B45B /* SJZCustomButton.m in Sources */,
+				641CDC361D535DFB0052B45B /* SJZTabBarButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +618,7 @@
 				641CDC151D535DB10052B45B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		641CDC161D535DB10052B45B /* Build configuration list for PBXNativeTarget "QQSliderTabbarDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +627,7 @@
 				641CDC181D535DB10052B45B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		641CDC191D535DB10052B45B /* Build configuration list for PBXNativeTarget "QQSliderTabbarDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +636,7 @@
 				641CDC1B1D535DB10052B45B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
